@@ -6,7 +6,7 @@ class script(object):
 sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨</blockquote>
 <blockquote>ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs ᴜsᴇ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ 🤞🏻</blockquote>
 
-ᴍᴀᴅᴇ ʙʏ : <a href='https://telegram.me/jit362'>Jit 😎</a> with help of Bisaal ❤️
+ᴍᴀᴅᴇ ʙʏ : <a href='https://telegram.me/jit362'>Jit 😬</a> with help of Bisaal ❤️
 </b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
@@ -192,13 +192,13 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 2:- ᴍᴀᴋᴇ ᴛʜɪs <a href=https://t.me/{}</a> ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
-3:- ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ᴀɴʏ sʜᴏʀᴛɴᴇʀ ʟɪᴋᴇ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴛʜɪs ʙᴇsᴛ sʜᴏʀᴛɴᴇʀ <a href=https://example.com>Example</a>.
+3:- ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ᴀɴʏ sʜᴏʀᴛɴᴇʀ ʟɪᴋᴇ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴛʜɪs ʙᴇsᴛ sʜᴏʀᴛɴᴇʀ <a href=https://dashboard.shareus.io/signup?src=0toVXR>Shareus.io</a>.
 
 4:- ᴛʜᴇɴ sᴇᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴅᴇᴛᴀɪʟs ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-<code>/set_shortner ez4short.com 837b7a64653d1b435f5e20a237840f1251d0c1ce</code>
+<code>/set_shortner Indishort.live 837b7a64653d1b435f5e20a237840f1251d0c1ce</code>
 
-<code>/set_shortner_2 sgu.in.net f287e7e9b1a23c34f542f77787d39607cae36a4d</code>
+<code>/set_shortner_2 shareus.io f287e7e9b1a23c34f542f77787d39607cae36a4d</code>
 
 <code>/set_shortner_3 short.in 06b24eb6bbb025713cd522fb3f696b6d5de11354</code>
 
