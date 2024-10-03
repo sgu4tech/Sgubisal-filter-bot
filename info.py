@@ -17,14 +17,14 @@ def is_enabled(value, default):
 #main variables
 API_ID = int(environ.get('API_ID', '17856759'))
 API_HASH = environ.get('API_HASH', 'af493765d44fde7340f25bc4ed8adc52')
-BOT_TOKEN = environ.get('BOT_TOKEN', '8184440293:AAGeGfUEpBduX9Om6zWAe39aqVsQ2RtN5RU')
+BOT_TOKEN = environ.get('BOT_TOKEN', '7654406329:AAH3Rj78JyLcXV2ZAL5bMlUzYp7CPbaP6E4')
 
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5407175688').split()]
 USERNAME = environ.get('USERNAME', "https://t.me/jit362")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002129497229'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+Q7cY7DzlhetiMzc1')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002212568354').split()]
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://demey71084:J20df4tH6RW7Ongc@cluster0.fr4qi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ceyeso4649:ceyeso4649#@cluster0.raatq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
@@ -33,8 +33,8 @@ QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/ccb9db43e62a2e524928e.j
 START_IMG = environ.get('START_IMG', 'https://graph.org/file/4dad0cc16f190468454ee.jpg')
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL','-1001939006539'))
 DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002218181338'))
-URL = environ.get('URL', 'https://sgubisal-filter-bot-5.onrender.com')
-STICKERS_IDS = ('CAACAgIAAxkDAAJ9NWbyjAJl9_m-FPHIM0EOeWLMLQFDAAKLAQACK15TC6NhvGkkNINQNgQ').split()
+URL = environ.get('URL', 'https://sgubisal-filter-bot-4.onrender.com')
+STICKERS_IDS = ('CAACAgEAAxkBAAJ_b2b-jabhJI_98ewTdFq5_Z8-FCYtAAJeAgACDrQgRDN7jNRozf9vNgQ').split()
 FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '600'))
 IS_VERIFY = is_enabled('IS_VERIFY', True)
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002218181338'))
