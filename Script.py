@@ -134,8 +134,14 @@ Click 👉🏻<a href="https://t.me/sgu_movies">🇸‌🇬‌🇺‌   🇲�
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
-    NO_RESULT_TXT = """<b>ᴛʜɪs ᴍᴇssᴀɢᴇ ɪs ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ ᴏʀ ᴀᴅᴅᴇᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ. Request @Jitchatbot1_bot to add this movie. Before request, check your movie name from google correctly. 
-✅️ Send Like That Format: Stree 2 2024 Hindi
+    NO_RESULT_TXT = """<b>ᴛʜɪs movie/series ɪs ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ ᴏʀ ᴀᴅᴅᴇᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ. Request @Jitchatbot1_bot to add this movie. \n\n
+    Before sending request, check your movie name from google correctly. And Copy Name then Send. \n\n
+
+✅️ Send Like That Format: \n\n
+Stree 2 2024 Hindi,(Movie)\n\n
+Farzi S02E03 Hindi. (Web series)
+\n\n
+🙂Your Movie will be added withinn 24 hiurs.❗️
     </b>"""
     
     I_CUDNT = """🤧 𝗛𝗲𝗹𝗹𝗼 {}
