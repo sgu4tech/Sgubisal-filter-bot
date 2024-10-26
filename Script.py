@@ -6,7 +6,7 @@ class script(object):
 sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨</b>
 <b>ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs ᴜsᴇ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ 🤞🏻</b>
 
-ᴍᴀᴅᴇ ʙʏ : <a href='https://telegram.me/jit362'>Jit 😬</a> with help of Bisaal.
+ᴍᴀᴅᴇ ʙʏ : <a href='https://telegram.me/jit362'>Jit</a> with help of Bisaal.
 </b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
@@ -134,14 +134,14 @@ Click 👉🏻<a href="https://t.me/sgu_movies">🇸‌🇬‌🇺‌   🇲�
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
-    NO_RESULT_TXT = """<b>ᴛʜɪs movie/series ɪs ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ ᴏʀ ᴀᴅᴅᴇᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ. Request @Jitchatbot1_bot to add this movie. \n\n
-    Before sending request, check your movie name from google correctly. And Copy Name then Send. \n\n
+    NO_RESULT_TXT = """<b>ᴛʜɪs movie/series ɪs ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ ᴏʀ ᴀᴅᴅᴇᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ. Request @Jitchatbot1_bot to add this movie.
+    Before sending request, check your movie name from google correctly. And Copy Name then Send.
 
-✅️ Send Like That Format: \n\n
-Stree 2 2024 Hindi,(Movie)\n\n
-Farzi S02E03 Hindi. (Web series)
-\n\n
-🙂Your Movie will be added withinn 24 hiurs.❗️
+✅️ Send Like That Format: 👇
+#Add Stree 2 2024 Hindi Movie
+#Add Farzi S02E03 Hindi Web series
+
+🙂Your Movie will be added by admin withinn 24 hours.❗️
     </b>"""
     
     I_CUDNT = """🤧 𝗛𝗲𝗹𝗹𝗼 {}
@@ -220,9 +220,9 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
     VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {} {},
 
-📌 <b>ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ ᴛᴏᴅᴀʏ, ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪғʏ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ғᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ</b>
+📌 <b>ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ ᴛᴏᴅᴀʏ, ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪғʏ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ғᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ 👇👇</b>
 
-#ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 1/3 ✓ 🤖
+ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 1/3 ✓ 🤖
 
 
 Click on Verify Button 👇👇
@@ -236,9 +236,9 @@ Click on Verify Button 👇👇
 
     SECOND_VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {} {},
 
-📌 <b>ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ, ᴛᴀᴘ ᴏɴ ᴛʜᴇ ᴠᴇʀɪꜰʏ ʟɪɴᴋ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ</b>
+📌 <b>ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ, ᴛᴀᴘ ᴏɴ ᴛʜᴇ ᴠᴇʀɪꜰʏ ʟɪɴᴋ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ 👇👇</b>
 
-#ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 2/3
+ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 2/3
 
 Click on Verify Button 👇👇
 </b>"""
@@ -251,9 +251,9 @@ Click on Verify Button 👇👇
 
     THIRDT_VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {},
     
-📌 <u>ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ ᴛᴏᴅᴀʏ, ᴛᴀᴘ ᴏɴ ᴛʜᴇ ᴠᴇʀɪꜰʏ ʟɪɴᴋ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ ɴᴇxᴛ ꜰᴜʟʟ ᴅᴀʏ.</u>
+📌 <u>ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ ᴛᴏᴅᴀʏ, ᴛᴀᴘ ᴏɴ ᴛʜᴇ ᴠᴇʀɪꜰʏ ʟɪɴᴋ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ ɴᴇxᴛ ꜰᴜʟʟ ᴅᴀʏ. 👇👇</u>
 
-#ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 3/3
+ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 3/3
 
 Click on Verify Button 👇👇
 
@@ -274,4 +274,4 @@ Click on Verify Button 👇👇
 ⚡️ ɴᴀᴍᴇ:- {} [ <code>{}</code> ] 
 📆 ᴅᴀᴛᴇ:- <code>{} </code></b>
 
-#verified_{}_completed"""
+verified_{}_completed"""
